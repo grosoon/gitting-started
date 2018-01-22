@@ -46,19 +46,22 @@ Do you have any other questions for me?
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?
-> ...
+* Participation (10%)
+* Assignments (15%)
+* Labs (50%)
+* Project (25%)
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> You are expected to make-up any missed material by first talking to your peers. Multiple absences from labs may cause up to 20% penalty on each lab.
 
 What happens if you turn in a lab late?
-> ...
+> Lose one letter grade for each day it is late.
 
 On what day will you give a presentation on your final project for this course?
-> ...
+> Either on Wednesday May 16 or Friday May 18 (the last week of class).
 
 Where can you find our course textbook?
-> ...
+> The textbook is available for free online at [this url](http://pages.cs.wisc.edu/~remzi/OSTEP/).
 
 When are you free during my scheduled office hours?
 > ...
