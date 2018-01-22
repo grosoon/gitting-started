@@ -64,4 +64,7 @@ Where can you find our course textbook?
 > The textbook is available for free online at [this url](http://pages.cs.wisc.edu/~remzi/OSTEP/).
 
 When are you free during my scheduled office hours?
-> ...
+> David: I am available during the following office hours
+> * Monday: 11:00 a.m. - 11:30 a.m
+> * Wednesday: 4:00 p.m. - 4:15 p.m. 
+> * Friday: 3:00 p.m. - 3:15 p.m.
