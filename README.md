@@ -68,4 +68,6 @@ When are you free during my scheduled office hours?
 > * Monday: 11:00 a.m. - 11:30 a.m
 > * Wednesday: 4:00 p.m. - 4:15 p.m. 
 > * Friday: 3:00 p.m. - 3:15 p.m.
+
+
 > Greyson: I am available during all office hours on Wednesday and Friday
